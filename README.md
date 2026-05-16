@@ -61,9 +61,9 @@ docker-compose up --build
 
 ### 4. Access Interfaces
 
-- FastAPI Docs: http://localhost:8000/docs
-- FastAPI Metrics: http://localhost:8000/metrics
-- Prometheus UI: http://localhost:9090
+- FastAPI Docs: 
+- FastAPI Metrics:
+- Prometheus UI: 
 - Grafana UI: http://localhost:3000
 
 ---
